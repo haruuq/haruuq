@@ -1,6 +1,34 @@
-# 💫 About Me:
-I am pursuing a Bachelor of Science in Information Technology at San Beda College Alabang, focusing on web development and front-end engineering.<br><br>I am developing a portfolio website using HTML and CSS and reorganizing my GitHub repositories to strengthen documentation, structure, and code quality. I am seeking collaboration with experienced front-end engineers to deepen my practical skills and align with industry-standard workflows.<br><br>I continue to build experience with HTML, CSS, Java, Python, and SQL through academic and independent projects.
+<p align="center">
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E90FF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/San%20Beda%20College%20Alabang-IT-AA0000?style=for-the-badge" /></a>
+</p>
 
+
+<!--Pixel Art -->
+---
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; font-family: 'Courier New', monospace; color: white; text-align: center; max-width: 600px; margin: 0 auto;">
+  
+<div align="center">
+<pre>
+██╗  ██╗ █████╗ ██████╗ ██╗   ██╗ ██╗   ██╗ ██████╗
+██║  ██║██╔══██╗██╔══██╗██║   ██║ ██║   ██║██╔═══██╗
+███████║███████║██████╔╝██║   ██║ ██║   ██║██║   ██║
+██╔══██║██╔══██║██╔══██╗██║   ██║ ╚██╗ ██╔╝██║   ██║
+██║  ██║██║  ██║██║  ██║╚██████╔╝  ╚████╔╝ ╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═══╝   ╚═════╝
+</pre>
+</div>
+
+
+---
+I am an Information Technology undergraduate at **San Beda College Alabang**, concentrating on **web development and front-end engineering**.
+
+My current focus includes developing a professional portfolio using **HTML and CSS**, alongside reorganizing my GitHub repositories to strengthen documentation, project structure, and overall code quality. I am actively pursuing collaboration with experienced front-end developers to gain practical insights and adopt industry-standard methodologies.
+
+Through academic coursework and personal projects, I have built proficiency in **HTML, CSS, Java, Python, and SQL**, continuously expanding my technical toolkit.
+
+---
 # Programming Languages and Technologies
 
 <table>
@@ -52,5 +80,3 @@ I am pursuing a Bachelor of Science in Information Technology at San Beda Colleg
     </td>
   </tr>
 </table>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
