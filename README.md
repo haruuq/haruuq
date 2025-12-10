@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E90FF?style=for-the-badge" /></a>
+<a href="https://haruuq.carrd.co">
+  <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=globe&logoColor=white" />
+</a>
 <a href="#"><img src="https://img.shields.io/badge/San%20Beda%20College%20Alabang-IT-AA0000?style=for-the-badge" /></a>
 </p>
 
