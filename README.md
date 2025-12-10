@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://haruuq.carrd.co">
-  <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 <a href="#"><img src="https://img.shields.io/badge/San%20Beda%20College%20Alabang-IT-AA0000?style=for-the-badge" /></a>
 </p>
