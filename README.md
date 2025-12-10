@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Bachelor of Science in Information Technology at San Beda College Alabang.<br><br>🔭 I am developing an HTML and CSS–based portfolio website to showcase my graphic design work and enhancing the structure of my GitHub repositories.<br>👥 I am seeking opportunities to collaborate with experienced front-end developers to further strengthen my technical capabilities.<br>🤝 I welcome guidance, insights, and knowledge sharing on topics related to web development.<br>🌱 I am continuously building proficiency in HTML, CSS, Java, Python, and SQL as part of my ongoing learning and project work.
+I am pursuing a Bachelor of Science in Information Technology at San Beda College Alabang, focusing on web development and front-end engineering.<br><br>I am developing a portfolio website using HTML and CSS and reorganizing my GitHub repositories to strengthen documentation, structure, and code quality. I am seeking collaboration with experienced front-end engineers to deepen my practical skills and align with industry-standard workflows.<br><br>I continue to build experience with HTML, CSS, Java, Python, and SQL through academic and independent projects.
 
 
 # 💻 Tech Stack:
@@ -8,6 +8,9 @@ I am currently pursuing a Bachelor of Science in Information Technology at San B
 ![](https://github-readme-stats.vercel.app/api?username=haruuq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=haruuq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haruuq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=haruuq&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haruuq&icon=1&color=0)](https://visitcount.itsvg.in)
